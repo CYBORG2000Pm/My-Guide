@@ -1,4 +1,4 @@
 # My-Guide
 
 
-How to build your first Minecraft shelter
+How to build your first Minecraft shelter.
